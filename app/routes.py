@@ -76,7 +76,7 @@ def before_request():
 
 @app.after_request
 def after_request(response):
-    response.headers['server'] = "zyva"
+    # 
     app.logger.info("after_request")
     return response
 
