@@ -1,7 +1,7 @@
 # api-people
 
 
-creer une database "flaskapp" sur mysql
+creer une database "apipeople" sur mysql
 
 regler run.sh pour se connecter à la bonne base
 
